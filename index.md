@@ -1,11 +1,5 @@
-html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
+<h1>Profile of Stefan Siotos</h1>
+<p>Student number: s3894025 </p>
+<p>Github pages url: https://stefansiotos.github.io/Assessment1/ </p>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
 
-</body>
-</html>
